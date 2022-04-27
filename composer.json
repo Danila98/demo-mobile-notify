@@ -65,10 +65,9 @@
     },
     "repositories": [
         {
-            
             "type": "composer",
             "url": "https://asset-packagist.org"
-        }, 
+        },
         {
             "type": "vcs",
             "url": "https://github.com/Danila98/mobile-notify"
